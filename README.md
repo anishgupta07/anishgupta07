@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&pause=1200&lines=Backend+Developer+(Spring+Boot);Android+Developer+(Jetpack+Compose);Data Structure Algorithm" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&pause=1200&lines=Backend+Developer+(Spring+Boot);Android+Developer+(Jetpack+Compose);Data+Structure+Algorithm" />
 </p>
 
 <p align="center">
