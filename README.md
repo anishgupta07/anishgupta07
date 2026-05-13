@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&pause=1200&lines=Backend+Developer+(Spring+Boot);Android+Developer+(Jetpack+Compose);DSA+%7C+LeetCode+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&pause=1200&lines=Backend+Developer+(Spring+Boot);Android+Developer+(Jetpack+Compose);Data Structure Algorithm" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 
 * 🎓 B.Tech ECS Student (2nd Year)
-* 🌱 Currently learning **Spring Boot & Backend Development**
+* 🌱 Currently learning **Spring Boot & Backend Development & Spring AI**
 * 📱 Building Android apps using **Jetpack Compose & MVVM**
 * 🧠 Practicing **DSA on LeetCode regularly**
 * 🎯 Goal: Become a **Skilled Software Developer**
