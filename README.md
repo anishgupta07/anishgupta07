@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Anish Gupta 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer+(Spring+Boot);AI%2FML+%26+RAG+Systems+Enthusiast;Android+Developer+(Jetpack+Compose);Data+Structures+%26+Algorithms" alt="Typing SVG" />
-</p>
+<h3 align="center">Backend & AI/ML Developer | Also Building Android Apps</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anishgupta0708">
