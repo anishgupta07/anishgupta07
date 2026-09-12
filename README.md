@@ -72,9 +72,6 @@
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=anishgupta07&repo=CineBook-Seat-Booking-System-&theme=dark" />
   </a>
 </p>
-
-> 💡 Also noticed you have a **patient-management-system** repo — want me to add a fourth pin card for that one too?
-
 ---
 
 ### 📊 GitHub Stats
